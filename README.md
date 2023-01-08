@@ -1,4 +1,4 @@
-## Hi there. I'm Yura 👋
+## :octocat: Hong Yura's GitHub :octocat:
 
 ### Languages
 ![Java](https://img.shields.io/badge/-Java-1E1E20?&logo=Java&logoColor=F9971A)
