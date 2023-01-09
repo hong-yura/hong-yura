@@ -22,7 +22,7 @@
 ![Discord](https://img.shields.io/badge/-Discord-1E1E20?&logo=Discord&logoColor=#5865F2)
 <br>
 ![Eclipse](https://img.shields.io/badge/-Eclipse-1E1E20?&logo=Eclipse&logoColor=#2C2255)
-![IntelliJ_IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-1E1E20?&logo=IntelliJ_IDEA&logoColor=ffffff)
+![IntelliJ_IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-1E1E20?&logo=intellij-idea&logoColor=ffffff)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hong-yura&layout=compact&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
